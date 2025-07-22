@@ -1,3 +1,3 @@
-admin=6Saiko9
-dancer=juanita
-security=pablo
+admin=
+dancer=6Saiko9
+security=
