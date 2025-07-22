@@ -1,3 +1,3 @@
 admin=
-dancer=6Saiko9
-security=
+dancer=
+security=6Saiko9
